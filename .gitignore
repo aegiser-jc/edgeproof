@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# EdgeProof runtime data (never commit market caches or live paper state)
+data_cache/
+paper_state/
+*.parquet
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
