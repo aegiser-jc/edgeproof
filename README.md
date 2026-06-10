@@ -1,5 +1,6 @@
 # EdgeProof
 
+[![tests](https://github.com/aegiser-jc/edgeproof/actions/workflows/tests.yml/badge.svg)](https://github.com/aegiser-jc/edgeproof/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
