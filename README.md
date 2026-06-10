@@ -1,5 +1,8 @@
 # EdgeProof
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 **Prove a trading strategy's edge is real — *net of costs* — instead of fooling yourself with a pretty backtest.**
 
 Most retail systematic strategies lose, and the usual reasons are self-inflicted:
